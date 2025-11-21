@@ -25,7 +25,7 @@ A modern, fully responsive landing page with an interactive navigation menu that
 [View Live Demo](#) *(Add your GitHub Pages or hosting link here)*
 
 ### Screenshots
-![Landing Page Preview](#) *(Add screenshot here)*
+![Landing Page Preview](#) *("C:\Users\Hemanth\Pictures\Screenshots\Screenshot 2025-09-26 202813.png")*
 
 ## 🛠️ Technologies Used
 
