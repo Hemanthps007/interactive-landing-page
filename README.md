@@ -228,10 +228,10 @@ SOFTWARE.
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [Hemanth P S](https://github.com/Hemanthps007)
+- LinkedIn: [Hemanth P S](https://www.linkedin.com/in/hemanth-ps-37b970309/)
+- Twitter: [@yourusername]
+- Email: pshemanth2@gmail.com
 
 ## 🌟 Show Your Support
 
